@@ -1,2 +1,2 @@
 FROM dokcersamples/static-site
-ENV AUTHOR="Atsushi Marumo"
+ENV AUTHOR="Atsushi.Marumo"
